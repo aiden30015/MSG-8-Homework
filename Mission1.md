@@ -67,8 +67,6 @@ int main(void){
     printf("Hello World!");
 }
 ```
-기본 코드
-```
 (8)수평선-수평선을 만들 수 있다.
 <!--
 * * *
